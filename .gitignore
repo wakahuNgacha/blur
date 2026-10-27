@@ -3,3 +3,6 @@ faceProfiles
 results
 uploads
 env
+processed
+faces.db
+haarcascade_frontalface_default.xml
